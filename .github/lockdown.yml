@@ -1,0 +1,2 @@
+# Limit to only `issues` or `pulls`
+only: pull
